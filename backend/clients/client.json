@@ -20,6 +20,13 @@
       "telephone": "99233232",
       "address": "Rua Tom Jobim, 1023",
       "id": 6
+    },
+    {
+      "name": "Gabriel Rodrigues Goes",
+      "email": "gabriel.goes",
+      "telephone": "",
+      "address": "Av. Floriano Peixoto, 200",
+      "id": 7
     }
   ]
 }
