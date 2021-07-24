@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "productName": "Geladeira Frost Free",
+      "productPrice": "5.532",
+      "fabricator": "Consul"
+    },
+    {
+      "id": 2,
+      "productName": "Iphone",
+      "productPrice": 1.399,
+      "fabricator": "Apple"
+    },
+    {
+      "id": 3,
+      "productName": "Televisão 50\"",
+      "productPrice": "4.449",
+      "fabricator": "Samsung"
+    },
+    {
+      "productName": "Notebook 15\"",
+      "productPrice": "6.499",
+      "fabricator": "Dell",
+      "id": 4
+    }
+  ]
+}
