@@ -1,6 +1,14 @@
 
 # dependencies
 /node_modules
+node_modules
+.node_modules
+.package-lock.json
+.yarn.lock
+package-lock.json
+yarn.lock
+/yarn.lock
+/package-lock.json
 # testing
 /coverage
 

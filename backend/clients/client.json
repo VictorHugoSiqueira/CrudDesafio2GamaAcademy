@@ -1,25 +1,11 @@
 {
   "client": [
     {
-      "id": 1,
-      "name": "Victor 1000 grau",
-      "email": "victor@gmail.com",
-      "telephone": "83939284812",
-      "address": "Rua Sol Nascente, 211"
-    },
-    {
       "id": 2,
       "name": "Arthur Da Silva",
       "email": "asilva@gmail.com.br",
       "telephone": "33215511",
       "address": "Rua Major Cipriano, 300"
-    },
-    {
-      "id": 3,
-      "name": "José da Silva",
-      "email": "joses@hotmail.com.br",
-      "telephone": "33229999",
-      "address": "Avenida Floriano Peixoto, 2300"
     },
     {
       "name": "Amanda de Souza",
@@ -29,46 +15,11 @@
       "id": 4
     },
     {
-      "name": "Jorge Ben Jor da Silva",
-      "email": "jorge@ben.com.br",
-      "telephone": "83928938291",
-      "address": "Rua Olivia de Oliveira, 450",
-      "id": 5
-    },
-    {
       "name": "Leonardo da Silva",
       "email": "leosilva@hotmail.com",
       "telephone": "99233232",
       "address": "Rua Tom Jobim, 1023",
       "id": 6
-    },
-    {
-      "name": "dasdas",
-      "email": "dadasd",
-      "telephone": "31212321313",
-      "address": "dadasda",
-      "id": 7
-    },
-    {
-      "name": "dsadasda",
-      "email": "dasdasdas",
-      "telephone": "3131321321",
-      "address": "dasdasdas",
-      "id": 8
-    },
-    {
-      "name": "dada",
-      "email": "daadad",
-      "telephone": "dadaa",
-      "address": "dadasdasad",
-      "id": 9
-    },
-    {
-      "name": "",
-      "email": "",
-      "telephone": "",
-      "address": "",
-      "id": 10
     }
   ]
 }

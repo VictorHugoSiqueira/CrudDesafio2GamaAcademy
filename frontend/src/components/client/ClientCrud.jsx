@@ -50,6 +50,7 @@ export default class ClientCrud extends Component {
         const client = { ...this.state.client }
         client[event.target.name] = event.target.value
         this.setState({ client })
+        localStorage.setItem("Clients", JSON.stringify(client))
     }
 
     renderForm() {
@@ -160,12 +161,12 @@ export default class ClientCrud extends Component {
                     <td>{client.email}</td>
                     <td>{client.address}</td>
                     <td>{client.telephone}</td>
-                    <td>
+                    <td className="row">
                         <button className="btn btn-warning"
                             onClick={() => this.load(client)}>
                             <i className="fa fa-pencil"></i>
                         </button>
-                        <button className="btn btn-danger ml-2"
+                        <button className="btn btn-danger ml-1"
                             onClick={() => this.remove(client)}>
                             <i className="fa fa-trash"></i>
                         </button>

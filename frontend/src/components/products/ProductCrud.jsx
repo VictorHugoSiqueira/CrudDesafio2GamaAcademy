@@ -50,6 +50,7 @@ export default class ProductCrud extends Component {
         const product = { ...this.state.product }
         product[event.target.name] = event.target.value
         this.setState({ product })
+        localStorage.setItem("Produtos", JSON.stringify(product))
     }
 
     renderForm() {

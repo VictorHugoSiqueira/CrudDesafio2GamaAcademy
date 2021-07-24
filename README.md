@@ -23,6 +23,8 @@ A aplicação consiste em uma gestão de cadastro de Clientes e Produtos, onde o
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS (framework)
+## Extra
+- Localstorage
 
 # Executando o projeto
 ## Clonando o repositório
