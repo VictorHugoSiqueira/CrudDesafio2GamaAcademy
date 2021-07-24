@@ -7,10 +7,14 @@ Crud Gama Academy é uma aplicação full stack web construída durante a 1ª ed
 
 A aplicação consiste em uma gestão de cadastro de Clientes e Produtos, onde os dados são coletados por inputs, e depois são listados em uma tabela de clientes e outra tabela para produtos. Dentre as funcionalidades de adcionar e remover produtos/clientes , também podemos editar e atualizar dados.
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## Layout web home
+![Web 1](https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy/blob/master/frontend/src/assets/imgs/layoutwebhome.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Layout web clients
+![Web 2](https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy/blob/master/frontend/src/assets/imgs/layoutwebclients.png)
+
+## layout web products
+![Web 3](https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy/blob/master/frontend/src/assets/imgs/layoutwebproducts.png)
 
 # Tecnologias utilizadas
 ## Backend
