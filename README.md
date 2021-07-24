@@ -1,5 +1,5 @@
 # Crud Gama Academy Desafio #2 
-https://github.com/VictorHugoSiqueira/CrudGamaAcademy
+https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy
 
 # Sobre o projeto
 
@@ -7,52 +7,41 @@ Crud Gama Academy é uma aplicação full stack web construída durante a 1ª ed
 
 A aplicação consiste em uma gestão de cadastro de Clientes e Produtos, onde os dados são coletados por inputs, e depois são listados em uma tabela de clientes e outra tabela para produtos. Dentre as funcionalidades de adcionar e remover produtos/clientes , também podemos editar e atualizar dados.
 
-## Layout web home
+## Layout Web Home
 ![Web 1](https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy/blob/master/frontend/src/assets/imgs/layoutwebhome.png)
 
-## Layout web clients
+## Layout web Clients
 ![Web 2](https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy/blob/master/frontend/src/assets/imgs/layoutwebclients.png)
 
-## layout web products
+## layout Web Products
 ![Web 3](https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy/blob/master/frontend/src/assets/imgs/layoutwebproducts.png)
 
-# Tecnologias utilizadas
+# Tecnologias Utilizadas
 ## Backend
 - JavaScript
-- JSON
+- JSON Server
 ## Front end
 - HTML / CSS / JS / TypeScript
-- ReactJS
-## Implantação em produção
-- Back end: GraphQl 
-- Banco de dados: MySql
+- ReactJS (framework)
 
-# Como executar o projeto
-# clonar repositório
-git clone https://github.com/VictorHugoSiqueira/CrudGamaAcademy
-# entrar na pasta do projeto back end e executar 
-1- cd backend/clients
-2-npm start
-3- abrir outro terminal para produtos
-4- cd backend/products
-5- npm start
+# Executando o projeto
+## Clonando o repositório
+git clone https://github.com/VictorHugoSiqueira/CrudDesafio2GamaAcademy
 
-# executar o projeto
-npm install
-npm start
+## Iniciando o back dos clientes 
+<dt>1 - cd backend/clients</dt>
+<dt>2 - npm install</dt>
+<dt>3 - npm start</dt>
 
-## Front end web
-Pré-requisitos: npm / yarn
+## Iniciando o back dos Produtos 
+<dt>1 - cd backend/products</dt>
+<dt>2 - npm install</dt>
+<dt>3 - npm start</dt>
 
-
-# entrar na pasta do projeto front end web
-cd frontend
-
-# instalar dependências
-npm install
-
-# executar o projeto
-npm start
+## Iniciando a aplicação Web
+<dt>1 - cd frontend</dt>
+<dt>2 - npm install</dt>
+<dt>3 - npm start</dt>
 
 # Autor
 
